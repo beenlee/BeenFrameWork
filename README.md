@@ -1,6 +1,8 @@
 BeenFrameWork
 =============
 BeenFrameWork 的demo程序
+demo演示地址：http://nkjz.nankai.edu.cn
+
 框架源码在been文件夹下
 index.php 网站前台的入口文件
 网站前台的应用在index目录下
